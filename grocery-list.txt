@@ -9,3 +9,7 @@ VEGETABLES
 SPICES
 - 10 grams cumin
 - 2 rosemary stems
+
+FRUITS
+- 7 Bananas
+- 5 Apples
