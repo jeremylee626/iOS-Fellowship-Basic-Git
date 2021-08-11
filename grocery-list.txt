@@ -13,3 +13,4 @@ SPICES
 FRUITS
 - 7 Bananas
 - 5 Apples
+- 1 Bag Frozen Blueberries
