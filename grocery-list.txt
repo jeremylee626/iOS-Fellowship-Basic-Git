@@ -15,6 +15,15 @@ FRUITS
 - 5 Apples
 - 1 Bag Frozen Blueberries
 - 1 Bag Frozen Strawberries
-- 750 grapes
-- 1 Watermelon
-- 1 Guava
+
+FROZEN FOODS
+- ice cream
+- snickers bars
+
+SNACKS
+- Smartfood
+- Apples
+
+DRINKS
+- Water
+- Apple juice
