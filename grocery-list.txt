@@ -20,4 +20,4 @@ FRUITS
 - 1 Watermelon
 - 1 Guava
 - 3 peaches
--1 kiwi
+- 1 kiwi
