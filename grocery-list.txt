@@ -19,3 +19,4 @@ FRUITS
 - 1 Watermelon
 - 1 Guava
 - 14 Pears
+- 17 Oranges
