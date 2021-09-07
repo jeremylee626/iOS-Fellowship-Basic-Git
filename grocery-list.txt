@@ -16,3 +16,5 @@ FRUITS
 - 1 Bag Frozen Blueberries
 - 1 Bag Frozen Strawberries
 - 750 grapes
+- 1 Watermelon
+- 1 Guava
