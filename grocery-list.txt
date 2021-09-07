@@ -19,3 +19,4 @@ FRUITS
 - 1 Watermelon
 - 1 Guava
 - 1 Bag of Oranges
+- 1 Watermelon
