@@ -5,3 +5,7 @@ MEATS
 VEGETABLES
 - 1 Bag Spinach
 - 1lb Broccoli
+
+SPICES
+- 10 grams cumin
+- 2 rosemary stems
