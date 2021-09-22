@@ -18,3 +18,10 @@ FRUITS
 - 750 grapes
 - 1 Watermelon
 - 1 Guava
+
+ICE-CREAM
+- Cherry Garcia
+- Chocolate Peanut Butter
+
+BREAKFAST FOOD
+- Oatmeal
